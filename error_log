@@ -1,0 +1,78 @@
+[12-Aug-2021 20:18:01 UTC] PHP Warning:  include_once(back-end/configdb.php): Failed to open stream: No such file or directory in /home3/codexp49/public_html/user/userinterface.php on line 5
+[12-Aug-2021 20:18:01 UTC] PHP Warning:  include_once(): Failed opening 'back-end/configdb.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/codexp49/public_html/user/userinterface.php on line 5
+[12-Aug-2021 20:18:01 UTC] PHP Warning:  include_once(back-end/create_all.php): Failed to open stream: No such file or directory in /home3/codexp49/public_html/user/userinterface.php on line 6
+[12-Aug-2021 20:18:01 UTC] PHP Warning:  include_once(): Failed opening 'back-end/create_all.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/codexp49/public_html/user/userinterface.php on line 6
+[12-Aug-2021 20:18:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iniciaDB() in /home3/codexp49/public_html/user/userinterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/codexp49/public_html/user/userinterface.php on line 10
+[12-Aug-2021 20:18:04 UTC] PHP Warning:  include_once(back-end/configdb.php): Failed to open stream: No such file or directory in /home3/codexp49/public_html/user/userinterface.php on line 5
+[12-Aug-2021 20:18:04 UTC] PHP Warning:  include_once(): Failed opening 'back-end/configdb.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/codexp49/public_html/user/userinterface.php on line 5
+[12-Aug-2021 20:18:04 UTC] PHP Warning:  include_once(back-end/create_all.php): Failed to open stream: No such file or directory in /home3/codexp49/public_html/user/userinterface.php on line 6
+[12-Aug-2021 20:18:04 UTC] PHP Warning:  include_once(): Failed opening 'back-end/create_all.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/codexp49/public_html/user/userinterface.php on line 6
+[12-Aug-2021 20:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iniciaDB() in /home3/codexp49/public_html/user/userinterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/codexp49/public_html/user/userinterface.php on line 10
+[12-Aug-2021 20:18:10 UTC] PHP Warning:  include_once(back-end/configdb.php): Failed to open stream: No such file or directory in /home3/codexp49/public_html/user/userinterface.php on line 5
+[12-Aug-2021 20:18:10 UTC] PHP Warning:  include_once(): Failed opening 'back-end/configdb.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/codexp49/public_html/user/userinterface.php on line 5
+[12-Aug-2021 20:18:10 UTC] PHP Warning:  include_once(back-end/create_all.php): Failed to open stream: No such file or directory in /home3/codexp49/public_html/user/userinterface.php on line 6
+[12-Aug-2021 20:18:10 UTC] PHP Warning:  include_once(): Failed opening 'back-end/create_all.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/codexp49/public_html/user/userinterface.php on line 6
+[12-Aug-2021 20:18:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iniciaDB() in /home3/codexp49/public_html/user/userinterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/codexp49/public_html/user/userinterface.php on line 10
+[12-Aug-2021 20:18:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iniciaDB() in /home3/codexp49/public_html/user/userinterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/codexp49/public_html/user/userinterface.php on line 7
+[12-Aug-2021 20:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iniciaDB() in /home3/codexp49/public_html/user/userinterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/codexp49/public_html/user/userinterface.php on line 7
+[12-Aug-2021 20:18:44 UTC] PHP Warning:  include_once(back-end/configdb.php): Failed to open stream: No such file or directory in /home3/codexp49/public_html/user/userinterface.php on line 5
+[12-Aug-2021 20:18:44 UTC] PHP Warning:  include_once(): Failed opening 'back-end/configdb.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/codexp49/public_html/user/userinterface.php on line 5
+[12-Aug-2021 20:18:44 UTC] PHP Warning:  include_once(back-end/create_all.php): Failed to open stream: No such file or directory in /home3/codexp49/public_html/user/userinterface.php on line 6
+[12-Aug-2021 20:18:44 UTC] PHP Warning:  include_once(): Failed opening 'back-end/create_all.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/codexp49/public_html/user/userinterface.php on line 6
+[12-Aug-2021 20:18:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iniciaDB() in /home3/codexp49/public_html/user/userinterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/codexp49/public_html/user/userinterface.php on line 10
+[12-Aug-2021 20:22:55 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 130
+[12-Aug-2021 20:22:55 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 132
+[12-Aug-2021 20:22:55 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 134
+[12-Aug-2021 20:35:29 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 99
+[12-Aug-2021 20:35:29 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 102
+[12-Aug-2021 20:35:29 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 105
+[12-Aug-2021 20:35:29 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 108
+[12-Aug-2021 21:48:15 UTC] PHP Warning:  Undefined array key "id" in /home3/codexp49/public_html/user/userinterface.php on line 77
+[12-Aug-2021 21:48:15 UTC] PHP Warning:  Undefined variable $foto in /home3/codexp49/public_html/user/userinterface.php on line 109
+[12-Aug-2021 21:48:15 UTC] PHP Warning:  Undefined variable $nome in /home3/codexp49/public_html/user/userinterface.php on line 109
+[12-Aug-2021 21:48:15 UTC] PHP Warning:  Undefined variable $email in /home3/codexp49/public_html/user/userinterface.php on line 110
+[12-Aug-2021 21:59:00 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 130
+[12-Aug-2021 21:59:00 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 132
+[12-Aug-2021 21:59:00 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 134
+[12-Aug-2021 22:42:07 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 99
+[12-Aug-2021 22:42:07 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 102
+[12-Aug-2021 22:42:07 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 105
+[12-Aug-2021 22:42:07 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 108
+[12-Aug-2021 23:00:09 UTC] PHP Warning:  Undefined array key "id" in /home3/codexp49/public_html/user/userinterface.php on line 81
+[12-Aug-2021 23:00:09 UTC] PHP Warning:  Undefined variable $foto in /home3/codexp49/public_html/user/userinterface.php on line 113
+[12-Aug-2021 23:00:09 UTC] PHP Warning:  Undefined variable $nome in /home3/codexp49/public_html/user/userinterface.php on line 113
+[12-Aug-2021 23:00:09 UTC] PHP Warning:  Undefined variable $email in /home3/codexp49/public_html/user/userinterface.php on line 114
+[13-Aug-2021 00:44:46 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 99
+[13-Aug-2021 00:44:46 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 102
+[13-Aug-2021 00:44:46 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 105
+[13-Aug-2021 00:44:46 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 108
+[13-Aug-2021 12:19:24 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 130
+[13-Aug-2021 12:19:24 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 132
+[13-Aug-2021 12:19:24 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 134
+[13-Aug-2021 12:19:24 UTC] PHP Warning:  unlink(upload/default.jpg): No such file or directory in /home3/codexp49/public_html/user/meus_dados.php on line 175
+[13-Aug-2021 14:38:23 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 130
+[13-Aug-2021 14:38:23 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 132
+[13-Aug-2021 14:38:23 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/meus_dados.php on line 134
+[13-Aug-2021 14:38:23 UTC] PHP Warning:  unlink(upload/default.jpg): No such file or directory in /home3/codexp49/public_html/user/meus_dados.php on line 175
+[13-Aug-2021 16:07:02 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 99
+[13-Aug-2021 16:07:02 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 102
+[13-Aug-2021 16:07:02 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 105
+[13-Aug-2021 16:07:02 UTC] PHP Warning:  preg_match(): Unknown modifier 'c' in /home3/codexp49/public_html/user/novo_proj.php on line 108
